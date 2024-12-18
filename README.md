@@ -1,4 +1,4 @@
-# minLoRA
+# Plora
 
 
 A minimal, but versatile PyTorch re-implementation of [LoRA](https://github.com/microsoft/LoRA). In only ~100 lines of code, minLoRA supports the following features:
